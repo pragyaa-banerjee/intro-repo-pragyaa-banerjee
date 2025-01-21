@@ -3,5 +3,5 @@
 **Name:** Pragyaa Banerjee\
 **Email:** pxb4914@mavs.uta.edu\
 **Major:** Mathematics\
-**Programming experience:** elementary courses in Python (high school level) \
+**Programming experience:** Elementary courses in Python (high school level) \
 **Favorite Hobby:** Writing stories and poems
