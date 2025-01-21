@@ -1,3 +1,5 @@
+# DATA 3401 Spring 2025 Lab 1
+
 **Name:** Pragyaa Banerjee\
 **Email:** pxb4914@mavs.uta.edu\
 **Major:** Mathematics\
